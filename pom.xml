@@ -100,7 +100,7 @@ THE SOFTWARE.
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>javadoc</artifactId>
-      <version>1.0</version>
+      <version>1.6</version>
     </dependency>
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
@@ -937,7 +937,7 @@ THE SOFTWARE.
           <dependency>
             <groupId>de.skuzzle.enforcer</groupId>
             <artifactId>restrict-imports-enforcer-rule</artifactId>
-            <version>0.7.0</version>
+            <version>1.1.0</version>
           </dependency>
         </dependencies>
       </plugin>
